@@ -1,0 +1,123 @@
+{
+    "Seeker": {
+        "checkpoints": [
+            {
+                "steps": 1729564,
+                "file_path": "results\\HideAndSeek_immitation\\Seeker\\Seeker-1729564.onnx",
+                "reward": -22.150002241134644,
+                "creation_time": 1743616538.5385063,
+                "auxillary_file_paths": [
+                    "results\\HideAndSeek_immitation\\Seeker\\Seeker-1729564.pt"
+                ]
+            },
+            {
+                "steps": 1999998,
+                "file_path": "results\\HideAndSeek_immitation\\Seeker\\Seeker-1999998.onnx",
+                "reward": -53.550004959106445,
+                "creation_time": 1743618179.979093,
+                "auxillary_file_paths": [
+                    "results\\HideAndSeek_immitation\\Seeker\\Seeker-1999998.pt"
+                ]
+            },
+            {
+                "steps": 2499991,
+                "file_path": "results\\HideAndSeek_immitation\\Seeker\\Seeker-2499991.onnx",
+                "reward": null,
+                "creation_time": 1743619914.6084013,
+                "auxillary_file_paths": [
+                    "results\\HideAndSeek_immitation\\Seeker\\Seeker-2499991.pt"
+                ]
+            },
+            {
+                "steps": 2999960,
+                "file_path": "results\\HideAndSeek_immitation\\Seeker\\Seeker-2999960.onnx",
+                "reward": -101.95000886917114,
+                "creation_time": 1743621668.4337325,
+                "auxillary_file_paths": [
+                    "results\\HideAndSeek_immitation\\Seeker\\Seeker-2999960.pt"
+                ]
+            },
+            {
+                "steps": 3209802,
+                "file_path": "results\\HideAndSeek_immitation\\Seeker\\Seeker-3209802.onnx",
+                "reward": -65.39969135830238,
+                "creation_time": 1743622294.6073055,
+                "auxillary_file_paths": [
+                    "results\\HideAndSeek_immitation\\Seeker\\Seeker-3209802.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 3209802,
+            "file_path": "results\\HideAndSeek_immitation\\Seeker.onnx",
+            "reward": -65.39969135830238,
+            "creation_time": 1743622294.6073055,
+            "auxillary_file_paths": [
+                "results\\HideAndSeek_immitation\\Seeker\\Seeker-3209802.pt"
+            ]
+        }
+    },
+    "Hider": {
+        "checkpoints": [
+            {
+                "steps": 499981,
+                "file_path": "results\\HideAndSeek_immitation\\Hider\\Hider-499981.onnx",
+                "reward": 6.473332484563191,
+                "creation_time": 1743613371.661772,
+                "auxillary_file_paths": [
+                    "results\\HideAndSeek_immitation\\Hider\\Hider-499981.pt"
+                ]
+            },
+            {
+                "steps": 864623,
+                "file_path": "results\\HideAndSeek_immitation\\Hider\\Hider-864623.onnx",
+                "reward": null,
+                "creation_time": 1743616538.5940526,
+                "auxillary_file_paths": [
+                    "results\\HideAndSeek_immitation\\Hider\\Hider-864623.pt"
+                ]
+            },
+            {
+                "steps": 999945,
+                "file_path": "results\\HideAndSeek_immitation\\Hider\\Hider-999945.onnx",
+                "reward": 14.326665163040161,
+                "creation_time": 1743618181.0788763,
+                "auxillary_file_paths": [
+                    "results\\HideAndSeek_immitation\\Hider\\Hider-999945.pt"
+                ]
+            },
+            {
+                "steps": 1499981,
+                "file_path": "results\\HideAndSeek_immitation\\Hider\\Hider-1499981.onnx",
+                "reward": 10.219998955726624,
+                "creation_time": 1743621670.02752,
+                "auxillary_file_paths": [
+                    "results\\HideAndSeek_immitation\\Hider\\Hider-1499981.pt"
+                ]
+            },
+            {
+                "steps": 1604580,
+                "file_path": "results\\HideAndSeek_immitation\\Hider\\Hider-1604580.onnx",
+                "reward": null,
+                "creation_time": 1743622294.5295098,
+                "auxillary_file_paths": [
+                    "results\\HideAndSeek_immitation\\Hider\\Hider-1604580.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 1604580,
+            "file_path": "results\\HideAndSeek_immitation\\Hider.onnx",
+            "reward": null,
+            "creation_time": 1743622294.5295098,
+            "auxillary_file_paths": [
+                "results\\HideAndSeek_immitation\\Hider\\Hider-1604580.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "1.1.0",
+        "torch_version": "2.6.0+cpu"
+    }
+}
